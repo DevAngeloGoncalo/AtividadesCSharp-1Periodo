@@ -1,5 +1,5 @@
 # AtividadesCSharp-1Periodo
-Exercícios da Cadeira de Algoritmos e Programação, feitos no ano de 2018.
+Exercícios da Cadeira de Algoritmos e Programação, feitos no primeiro semestre do ano de 2018.
 
 Os Exercícios Incluem:
 
